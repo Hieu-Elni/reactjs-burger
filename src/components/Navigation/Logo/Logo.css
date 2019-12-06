@@ -1,0 +1,11 @@
+.Logo-child{
+    height: 100%;
+    background-color: white;
+    box-sizing: content-box;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.Logo img{
+    height: 100%;
+}
